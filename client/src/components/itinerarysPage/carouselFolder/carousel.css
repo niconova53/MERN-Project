@@ -1,0 +1,49 @@
+.imgcity1 {
+    background-image: url(./img/img47.jpg);
+}
+
+.imgcity2 {
+    background-image: url(./img/img70.jpg);
+}
+.imgcity3 {
+    background-image: url(./img/img22.jpg);
+}
+
+.imgcity4 {
+    background-image: url(./img/img23.jpg);
+}
+
+
+.imgcity1, .imgcity2, .imgcity3, .imgcity4 {
+    position: relative;
+    display: block;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+    height: 100px;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col p {
+    font-size: 14px;
+    color: cornsilk;
+    background-color: rgba(3, 3, 3, 0.479);
+    padding: 1px 9px;
+    border-radius: 4px;
+}
+
+.row div {
+    margin: 2px;
+} 
+
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: rgba(3, 3, 3, 0.363);
+    border-radius: 4px;
+    height: 30px;
+}

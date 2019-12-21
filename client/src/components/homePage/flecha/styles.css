@@ -1,0 +1,13 @@
+.imgFlecha {
+    background-image: url(./circled-right-2.png);
+    height: 80px;
+    width: 80px;
+}
+
+.imgFlecha {
+    position: relative;
+    display: block;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+}

@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+    color: rgb(235, 59, 5);
+    font-size: 40px;
+    text-align: center;
+}
+
+.imgMusic {
+    background-image: url(./img/circleMusic1.png);
+}
+
+.imgAvion {
+    background-image: url(./img/circleAvion1.png);
+}
+
+.imgParis {
+    background-image: url(./img/CircleParis1.png);
+}
+
+.imgPlaya {
+    background-image: url(./img/CirclePlaya1.png);
+}
+
+.imgMusic, .imgAvion, .imgParis, .imgPlaya {
+    min-height: 40px;
+    min-width: 30px;
+    max-width: 50%;
+    border-radius: 50%;
+}
+
+.imgMusic, .imgAvion, .imgParis, .imgPlaya {
+    position: relative;
+    display: block;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.nav-link {
+    padding: 4px 0px;
+}
