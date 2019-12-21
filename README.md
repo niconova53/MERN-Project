@@ -6,4 +6,4 @@ replace for run:
 
 src/config/auth.json
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/niconova53/MERN-Project/blob/master/view/example.gif)
