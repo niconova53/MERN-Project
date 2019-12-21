@@ -6,4 +6,4 @@ replace for run:
 
 src/config/auth.json
 
-
+https://github.com/niconova53/MERN-Project/blob/master/view/example.gif
