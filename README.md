@@ -6,4 +6,4 @@ replace for run:
 
 src/config/auth.json
 
-view/example.gif
+![alt text](http://url/to/img.png)
