@@ -6,4 +6,4 @@ replace for run:
 
 src/config/auth.json
 
- MERN-Project/view/example.gif 
+view/example.gif
